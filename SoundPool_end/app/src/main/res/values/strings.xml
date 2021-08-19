@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SoundPool</string>
+    <string name="sound1">Sound1</string>
+    <string name="sound2">Sound2</string>
+    <string name="sound3">Sound3</string>
+    <string name="sound4">Sound4</string>
+</resources>
